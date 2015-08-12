@@ -39,7 +39,7 @@ class AbstractPhpVersion < Formula
     PHP_BRANCH      = 'PHP-5.5'
 
     PHP_CHECKSUM    = {
-                        :sha256 => '197d2c572e030c177e53d3763d59ac6d363d7c78dc22e6cc1e2ac65573d9c2f3',
+                        :sha256 => '9d1dea5195e2bcd928416130a6e19173d02bd36fb76c382522bf145c458fbed3',
                       }
   end
 
