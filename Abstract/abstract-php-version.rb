@@ -33,9 +33,9 @@ class AbstractPhpVersion < Formula
   end
 
   module Php55Defs
-    PHP_SRC_TARBALL = 'https://php.net/get/php-5.5.28.tar.bz2/from/this/mirror'
+    PHP_SRC_TARBALL = 'https://php.net/get/php-5.5.9.tar.bz2/from/this/mirror'
     PHP_GITHUB_URL  = 'https://github.com/php/php-src.git'
-    PHP_VERSION     = '5.5.28'
+    PHP_VERSION     = '5.5.9'
     PHP_BRANCH      = 'PHP-5.5'
 
     PHP_CHECKSUM    = {
